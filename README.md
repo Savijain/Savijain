@@ -3,7 +3,7 @@
 <!--
 **Savijain/Savijain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![@Savijain's Holopin board](https://holopin.io/api/user/board?user=savij15)](https://holopin.io/@savij15)
+[![An image of @savij15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savij15)](https://holopin.io/@savij15)
 
 Here are some ideas to get you started:
 
